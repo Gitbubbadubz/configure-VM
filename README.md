@@ -1,4 +1,5 @@
 How to Create and Access a Virtual Machine (VM) in Microsoft Azure
+
 Step 1: Sign Up for Azure
 Go to azure.microsoft.com.
 
@@ -41,3 +42,6 @@ Click "Review + Create", wait for validation, then click "Create."
 Note: Deployment may take a few minutes.
 
 Your VM is now ready.
+
+<img width="511" height="58" alt="image" src="https://github.com/user-attachments/assets/9b7fe690-0f4a-43c9-9065-bc126d4ac216" />
+
